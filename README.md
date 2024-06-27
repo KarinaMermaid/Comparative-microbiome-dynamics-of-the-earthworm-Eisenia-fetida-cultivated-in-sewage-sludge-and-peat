@@ -29,7 +29,7 @@ The source tables in the `tables` folder are crucial for reproducing the statist
 * The presence and abundance of microbial taxa (asv_table.csv).
 * Experimental metadata (metadata.csv) that contextualizes the microbiome data.
 * Taxonomic classifications (taxonomy.csv) that provide a framework for understanding microbial identities and relationships.
-* Additional data (additional_tables.xlsx) that support extended analyses and interpretations.
+* Additional data (supplementary_tables.xlsx) that support extended analyses and interpretations.
 
 
   
